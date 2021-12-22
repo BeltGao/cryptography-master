@@ -36,4 +36,15 @@ Some basic cryptographic algorithms implemented in Python
 * Decryption  
 ![image](https://user-images.githubusercontent.com/51358514/147092261-583d9357-73fa-4280-be62-5ef3bf542151.png)
 
+# RC4 
+**RC4 encryption and decryption of files**
+* Encryption 
+![image](https://user-images.githubusercontent.com/51358514/147093355-a4727ff7-aaa8-4b8e-ace9-6ec59841ec0d.png) 
+* Decryption
+* ![image](https://user-images.githubusercontent.com/51358514/147093378-4cc67568-c73a-4f0a-be03-6ca965eec724.png)
+* result
+![image](https://user-images.githubusercontent.com/51358514/147093415-74ff31a8-6dbd-40ef-9653-eec894c5db4b.png)
+
+# SHA
+
 
